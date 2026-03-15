@@ -16,6 +16,7 @@ class MyPerson:
         self.age = 0
         self.max_age = max_age
         self.dir = None
+        
     def getRGB(self):
         return (self.R,self.G,self.B)
     def getTracks(self):
